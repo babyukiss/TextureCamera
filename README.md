@@ -1,2 +1,2 @@
 # opengl
-this is android opengles demo
+this is android opengles demo.
